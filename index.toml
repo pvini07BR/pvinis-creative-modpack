@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "79fa162d256d7fca393251c1fed1fb512a176cb46920c62e9e9f7cb4b2a446d5"
+hash = "a361e5c798fc06d0f18e507d17a170410c7c79dc24fd960155b38a6b9956c23f"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "6bb8b0848783cdf7108e499107a4991c2cee2a9240b963d427fa62b0f2a5820e"
+hash = "0663919544b1f185be64b69269f5e914d2fae910fb8ee16d4cd9549d809e71cd"
 metafile = true
 
 [[files]]
@@ -547,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "c5281dd134c913b5acb19de510a2ad1905600969e6c4ab6cc2e3b147db635e4a"
+hash = "7c3150344d22b55af4eb0b3fb0ded92d08bd0b1afb5c8b129fce8b1dc21f8407"
 metafile = true
 
 [[files]]
