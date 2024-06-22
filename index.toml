@@ -177,7 +177,6 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
-hash = "6b74215c6b670deb13863c9dcfeb0ddb05e0a13b34d1ac4ccd890759de62d689"
 metafile = true
 
 [[files]]
@@ -426,11 +425,6 @@ hash = "e2f18b67d7c5e0bf4dca773a0fe661ba95b424e75f686eb7cc7d5a5eada69815"
 metafile = true
 
 [[files]]
-file = "mods/moonlight.pw.toml"
-hash = "dbcb87c76bd4e21f3b5dc155c3ddc4cd5bab670e34703f5e8b378f84fcaddc1f"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "ea7f91e66e1e475cd5fa10f56caa46a6a53754da99ed3252e6a6f68b731699b1"
 metafile = true
@@ -482,7 +476,6 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "32b967419bd0687e896509fd8492bd17b130d82c636135328f3b33b17f5956af"
 metafile = true
 
 [[files]]
