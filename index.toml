@@ -307,7 +307,6 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "e87ea254349dad2ecf6998fbdb0577323fbe41f3dcf2ab4f497c813b7442f2a6"
 metafile = true
 
 [[files]]
@@ -477,7 +476,6 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "90d5f03e4bfcce868ea22a2ae7155c282cc5d36797b61ec72fc56af176406242"
 metafile = true
 
 [[files]]
@@ -517,7 +515,6 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "a79ace92ad5e44c2c75936aea41077ff81c53a5533b75d73a6c58e1bb1879ec6"
 metafile = true
 
 [[files]]
