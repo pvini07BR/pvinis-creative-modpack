@@ -176,11 +176,6 @@ hash = "703196e02c2f1c05f8cb8edb7b3ff9f0c1015bf0ead85730f976e09c24ce0fca"
 metafile = true
 
 [[files]]
-file = "mods/customskinloader.pw.toml"
-hash = "8e886eb68cdc1883b8900ca4eea722bff63fff0c9f4ec00900bde1bee6c2afcf"
-metafile = true
-
-[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "740e8bc5f6560bebe40b27bcc9fb6bc1adc2dbd489338cc70b00176427b3b5a3"
 metafile = true
@@ -483,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "19fa7bbbebc37d8db487a63d79e31ad23c70a70b2c18253301cafe36f506d512"
+metafile = true
+
+[[files]]
+file = "mods/skinchanger.pw.toml"
+hash = "298f9e7f4c075274da221028f4300f32dd784c080b8733cfd22d4672a7dc721f"
 metafile = true
 
 [[files]]
