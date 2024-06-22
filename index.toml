@@ -177,6 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
+hash = "6b74215c6b670deb13863c9dcfeb0ddb05e0a13b34d1ac4ccd890759de62d689"
 metafile = true
 
 [[files]]
