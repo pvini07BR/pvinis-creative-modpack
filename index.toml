@@ -22,7 +22,6 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "cc1d4d988257fe6db0f6cd7a16a8da0f8cf37da8649d4bd6bd0096cf62043c92"
 metafile = true
 
 [[files]]
@@ -72,7 +71,6 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "1ae87327a1b14b858635768fd5b5b70444427af8c035b5d1f5231721f488b442"
 metafile = true
 
 [[files]]
@@ -162,7 +160,6 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "e3675974e82fcae3aa0c612c5a7709739e6c83710ee4d0ccef890afcecc40c87"
 metafile = true
 
 [[files]]
@@ -172,7 +169,6 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "703196e02c2f1c05f8cb8edb7b3ff9f0c1015bf0ead85730f976e09c24ce0fca"
 metafile = true
 
 [[files]]
@@ -182,17 +178,14 @@ metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "127755a295858228bdbc4e696c06adf201eee057e8ed67e785c9180af139d557"
 metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "16b412b2e37d3dd36de55b7ad0c4db42ae0bd9bb5bb2fd1e6424e9b4c71620e2"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "588b334623040da0c594c7f155aee8534ca6e6d7b092db92850e469f66b9f333"
 metafile = true
 
 [[files]]
@@ -282,7 +275,6 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "8b095b4d08ca635469699556d1a6ce979ae614d33b849a57df9ca012a067faec"
 metafile = true
 
 [[files]]
@@ -472,7 +464,6 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "e6a64b6124abc2c9d22e866c9d36c2b56ea870283ccbae167112c68a9c660cbd"
 metafile = true
 
 [[files]]
@@ -542,12 +533,10 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "7c3150344d22b55af4eb0b3fb0ded92d08bd0b1afb5c8b129fce8b1dc21f8407"
 metafile = true
 
 [[files]]
 file = "mods/world-preview.pw.toml"
-hash = "916cc6a04b00e8922fa69d502dfa17e701e718d52e16e705b236130f099bcc40"
 metafile = true
 
 [[files]]
@@ -557,7 +546,6 @@ metafile = true
 
 [[files]]
 file = "mods/xks-decoration.pw.toml"
-hash = "19b7ad8e7e3b6ca79ad8f8172f19bc22bf67417712bc9f7db659bd2e3cc9a1cb"
 metafile = true
 
 [[files]]
