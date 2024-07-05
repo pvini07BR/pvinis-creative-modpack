@@ -125,7 +125,6 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "ad75b54b108148d1d01daa2eead5ead341a9e1bbc84d3418f71412296757b70d"
 metafile = true
 
 [[files]]
@@ -210,7 +209,6 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "c987b4f2713f3a6335dde6ded47de4d4cdbbcaa037d139c37e7e25f7f590fb31"
 metafile = true
 
 [[files]]
@@ -289,7 +287,6 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "212633e875f70f3990a8064079e116dae6b957363c2d67776cc56debb2e64c7b"
 metafile = true
 
 [[files]]
