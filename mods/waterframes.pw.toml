@@ -1,13 +1,13 @@
 name = "WATERFrAMES: Media Displays"
-filename = "waterframes-1.20.1-2.0.10.jar"
+filename = "waterframes-FORGE-mc1.20.1-v2.0.12.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2e02fed9e8e4f1ccb77bddbd3b1146bb48e171ea"
+hash = "1dd096782b5c976659b5ee8d2ba4d182dc1dfc3a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5440341
+file-id = 5539609
 project-id = 834607

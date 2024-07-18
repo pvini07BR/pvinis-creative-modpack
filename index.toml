@@ -162,12 +162,10 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "2f27bc6b84433eb0bec1338dadba55037635ab7eb7209bc4609f539c89c4c65d"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "32446647caba6dd865ec1fae8c5651dfd543efaaa0b40cfa75d56c39fe35d491"
 metafile = true
 
 [[files]]
@@ -182,7 +180,6 @@ metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "518f74ded0b3d8c381b27219664095b14bd53a4db0be2e25b637bbf8f445d3dd"
 metafile = true
 
 [[files]]
@@ -217,7 +214,6 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "14b1ec5e16b3ce51752b10271a1457536acafdcacfeb807728478f337b34298e"
 metafile = true
 
 [[files]]
@@ -247,7 +243,6 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "895a16cc23b52ea6f851727c04199deae43eedb5bc9d6d121d20bf7f3a97c70a"
 metafile = true
 
 [[files]]
@@ -282,7 +277,6 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "154ce26b6fdfb21fd15abc1c121e045fcff2231efd7fc9dae63a08bffb2b7aa2"
 metafile = true
 
 [[files]]
@@ -302,7 +296,6 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "e8faef6b052bbe6d36616fb94bf6a536af94b19194bd852bd5f698483782896a"
 metafile = true
 
 [[files]]
@@ -347,7 +340,6 @@ metafile = true
 
 [[files]]
 file = "mods/littletiles.pw.toml"
-hash = "fdad86a69b0f686d819f2a50043bc6e8103002138d70d81f90a11b345531e67c"
 metafile = true
 
 [[files]]
@@ -417,7 +409,6 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e2f18b67d7c5e0bf4dca773a0fe661ba95b424e75f686eb7cc7d5a5eada69815"
 metafile = true
 
 [[files]]
@@ -487,7 +478,6 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "ccefbc00ed1838907acb5ec379784f9a52a1141c880ef0282e9c079355876702"
 metafile = true
 
 [[files]]
@@ -537,12 +527,10 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "6db7e1c29fb1431a74df02b824f6b61e5b067302c5abce2b8de37c67b92195a2"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "b77cb829e24654a07ec035d9970b1a09ed23697532b8ff6cbb322cc64628b904"
 metafile = true
 
 [[files]]
@@ -557,7 +545,6 @@ metafile = true
 
 [[files]]
 file = "mods/xks-decoration.pw.toml"
-hash = "b73c4399c501bb5b10b0062cfc0307cb76a3683a0eaa207b0a4fca3194fe9b39"
 metafile = true
 
 [[files]]
