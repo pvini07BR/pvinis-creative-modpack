@@ -446,6 +446,11 @@ hash = "7c334196e474463949d42ea741afe7177f09572bdf50edf51fb7bd90a1093d5e"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "1d72ac6ec515db48cb89dae58345b514524f195bc5ab1942d1ce9fb91d30defd"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "0d4a48d89d0962c8b5589be857161699256da13162b6b39f54c07595ef13912c"
 metafile = true
@@ -563,4 +568,9 @@ metafile = true
 [[files]]
 file = "mods/yuushya-townscape.pw.toml"
 hash = "dbd6a6cfc6e64af37c772bd7658b468be54d7c4c147232c1ac5ad762fc36265d"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "d0a8b2b9ba78bc8171e96ac4bf0ee800fff6bc326c8b5e582e9d36d19d845e1c"
 metafile = true
