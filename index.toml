@@ -316,11 +316,6 @@ hash = "3e7972e002c83cec1c92da444fed68ec30dcc36db0c8812d0431c81d33467c00"
 metafile = true
 
 [[files]]
-file = "mods/just-zoom.pw.toml"
-hash = "452fbdade9bb1aee685d5bccf5d9f219b3532b0e659946f6ccadfe60d43f83aa"
-metafile = true
-
-[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "ed461d699dfadb76e5b38cf39d1eea7c35221db5587a35bf38499782b6f98160"
 metafile = true
@@ -443,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "0663919544b1f185be64b69269f5e914d2fae910fb8ee16d4cd9549d809e71cd"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer-forge.pw.toml"
+hash = "7fe39c6ca31974b4e57e4b08a174beb959933767623c70893064a282ae29a859"
 metafile = true
 
 [[files]]
