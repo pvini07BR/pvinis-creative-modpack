@@ -291,11 +291,6 @@ hash = "2143dc055ae837c6a4de5da8dd228cacf73dbe872a5c603a28f5e623e22ea5e6"
 metafile = true
 
 [[files]]
-file = "mods/immersive-engineering.pw.toml"
-hash = "5508a5c035dffcb22c6ff5b2a52235f753fc4361221be8b97c25b8650efefba6"
-metafile = true
-
-[[files]]
 file = "mods/interiors.pw.toml"
 hash = "8d90c743e7b5778649568b0e063035d12cef5c2d9b16a5c5eec2495cce38ceef"
 metafile = true
