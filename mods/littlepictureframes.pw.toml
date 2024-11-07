@@ -1,13 +1,13 @@
 name = "LittlePictureFrames"
-filename = "LittleFrames_FORGE_v1.3.9_mc1.20.1.jar"
+filename = "LittleFrames_FORGE_v1.3.10_mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/V7pmsAKw/versions/JTsj8WIn/LittleFrames_FORGE_v1.3.9_mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/V7pmsAKw/versions/fav7WGN1/LittleFrames_FORGE_v1.3.10_mc1.20.1.jar"
 hash-format = "sha1"
-hash = "de0618400f7f28d0930e00e167a17c19c1570783"
+hash = "b92ef2119ebd98938fa6a1429582efadbf24b70d"
 
 [update]
 [update.modrinth]
 mod-id = "V7pmsAKw"
-version = "JTsj8WIn"
+version = "fav7WGN1"

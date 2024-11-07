@@ -1,13 +1,13 @@
 name = "Yuushya Townscape [Forge/Fabric]"
-filename = "yuushya-1.20.1-forge-2.1.1.jar"
+filename = "yuushya-1.20.1-forge-2.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "073bdc55897d35381bbcc4a74625494cf705d406"
+hash = "cd043d70f9d158d5a84a88b9d464ebcbd218d97b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4749060
+file-id = 5739339
 project-id = 533104

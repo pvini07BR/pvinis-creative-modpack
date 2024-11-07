@@ -1,13 +1,13 @@
 name = "XK's Decoration"
-filename = "XeKr's Decoration-1.20.1-Forge-0.7.2.jar"
+filename = "XeKr's Decoration-1.20.1-Forge-0.8.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XlwMlNhH/versions/8rPN25B2/XeKr%27s%20Decoration-1.20.1-Forge-0.7.2.jar"
+url = "https://cdn.modrinth.com/data/XlwMlNhH/versions/ZtuNrbl5/XeKr%27s%20Decoration-1.20.1-Forge-0.8.2.jar"
 hash-format = "sha1"
-hash = "8bc1ff2c7a344e883f916c025e85a9cbdb859f42"
+hash = "cae60a1bf7cf99a53b76f859fcde50d513da7bcf"
 
 [update]
 [update.modrinth]
 mod-id = "XlwMlNhH"
-version = "8rPN25B2"
+version = "ZtuNrbl5"

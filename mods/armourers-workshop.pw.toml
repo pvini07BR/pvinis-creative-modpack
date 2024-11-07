@@ -1,13 +1,13 @@
 name = "Armourer's Workshop"
-filename = "armourersworkshop-forge-1.20.1-3.0.0-beta.10.jar"
+filename = "armourersworkshop-forge-1.20.1-3.0.0-beta.23.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/y4JF3gXL/versions/TJGa1J6R/armourersworkshop-forge-1.20.1-3.0.0-beta.10.jar"
+url = "https://cdn.modrinth.com/data/y4JF3gXL/versions/ShFBNzmx/armourersworkshop-forge-1.20.1-3.0.0-beta.23.jar"
 hash-format = "sha1"
-hash = "82d8048a872fedca8112ab368ff161c921ce4d5d"
+hash = "ee608a4f491911c1c746a3a03fca87dec4ac1ef7"
 
 [update]
 [update.modrinth]
 mod-id = "y4JF3gXL"
-version = "TJGa1J6R"
+version = "ShFBNzmx"
