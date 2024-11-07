@@ -1,13 +1,14 @@
 name = "Video Player"
-filename = "VideoPlayer-3.0.5-FORGE-1.20.X.jar"
+filename = "VideoPlayer-2.6.2-FORGE-1.20.X.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
-hash = "9b398b4d3fd87373c9c047e2a812dac56bd9bdbd"
+hash = "a792c572a545952be2369944daace617fb3f2551"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5771085
+file-id = 5223280
 project-id = 645407

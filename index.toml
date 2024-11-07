@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena.pw.toml"
-hash = "2b4edecc8ef931390e61f700105c0e44f3c3b18d8d56df8efb8468a740232499"
+hash = "90b35a26f7bbcd914d5eae29a2cdb057e9742191d06d65daa71d75220ee6be7e"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/video-player.pw.toml"
-hash = "3a3a025c065f480aa48a4c27a76cacb0b738c26e44616a2369836cdacd61c890"
+hash = "1a7e6732154ae19179c609425226bbd3bfa3bea759d929b1f4abc491f4d54ab6"
 metafile = true
 
 [[files]]
@@ -552,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "c706b6922e64d6dfac55aa557a3ee99841ee95d8da266b80adb1431b0084db6b"
+hash = "dcb30d687834fa852e37a78e5cb9976e7aea28bd0f371dbce47b4b344cac0aa4"
 metafile = true
 
 [[files]]
